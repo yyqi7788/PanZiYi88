@@ -2281,7 +2281,7 @@ isIE10 || "undefined" == typeof window.AudioContext && "undefined" == typeof win
         powerUpEnd: [17e3, 600]
     }
 }), music = new Howl({
-    urls: ["audio/music.ogg", "audio/music.m4a"],
+    urls: ["audio/music.mp3", "audio/music.mp3"],
     volume: .01,
     loop: !0
 })),
